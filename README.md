@@ -19,7 +19,7 @@ NOTE: All the code written by keeping in mind the application which is mention b
   ○ Demo2.mp4: This video is our code demonstration video.\ 
 ## ● About code:
   ○ Language: Python \
-  ○ Libraries used:\
+  ○ Libraries used:\\
     ■ OpenCV: for image-processing\
     ■ openpyxl: for creating and editing ".xlsx" file\
     ■ pytesseract: for converting text-image to text(string)\
