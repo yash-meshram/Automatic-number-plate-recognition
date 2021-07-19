@@ -41,3 +41,5 @@ NOTE: The process of saving the image and then identifying the text in the image
   ○ To detected and note down the number plate of the vehicle entering the house, official building, shopping mall, college, etc.
 
 NOTE: According to our application and code, we have to use the video in which the camera angle should be in a way that the number plate of the vehicle should be visible clearly. It will be great if we put the camera angle as set in the video “q2.mp4”.
+
+# Youtube link: https://youtu.be/mcqmqyfZ6e8
