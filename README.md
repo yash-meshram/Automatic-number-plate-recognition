@@ -3,7 +3,7 @@
 Project Name: Automatic number plate recognition.
 
 NOTE: All the code written by keeping in mind the application which is mention below. Our test video also depends on our application.
-● File descriptions:
+● File descriptions:\
   ○ output_plate_image: In this file, all the plate images will be saved
   ○ indian_license_plate.xml: This is the ".xml" file which will detect the no. plate of the vehicle. We used this file in our code in line 22.
   ○ liceneplate.xml: This is another ".xml" file which also can be used to detect the no. plate of the vehicle.
