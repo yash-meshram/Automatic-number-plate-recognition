@@ -14,17 +14,17 @@ NOTE: All the code written by keeping in mind the application which is mention b
     
 
 ## ● Videos:
-  ○ q2.mp4: This is our testing video. We used this video in our code line 15. 
-  ○ Demo.mp4: This video is our code demonstration video.
-  ○ Demo2.mp4: This video is our code demonstration video. 
+  ○ q2.mp4: This is our testing video. We used this video in our code line 15.\
+  ○ Demo.mp4: This video is our code demonstration video.\
+  ○ Demo2.mp4: This video is our code demonstration video.\ 
 ## ● About code:
-  ○ Language: Python 
-  ○ Libraries used:
-    ■ OpenCV: for image-processing
-    ■ openpyxl: for creating and editing ".xlsx" file
-    ■ pytesseract: for converting text-image to text(string) 
-    ■ datetime: for finding the current date and time
-    ■ Os
+  ○ Language: Python \
+  ○ Libraries used:\
+    ■ OpenCV: for image-processing\
+    ■ openpyxl: for creating and editing ".xlsx" file\
+    ■ pytesseract: for converting text-image to text(string)\
+    ■ datetime: for finding the current date and time\
+    ■ Os\
 ## ● Short explanation of the code:
   1.   Imported the required packages
   2.   Read the frames of the video
