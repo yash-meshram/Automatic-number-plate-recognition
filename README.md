@@ -1,5 +1,7 @@
 # Automatic-number-plate-recognition.
+
 Project Name: Automatic number plate recognition.
+
 NOTE: All the code written by keeping in mind the application which is mention below. Our test video also depends on our application.
 ●       File descriptions:
 ○       output_plate_image: In this file, all the plate images will be saved
@@ -8,6 +10,7 @@ NOTE: All the code written by keeping in mind the application which is mention b
 ○       no._plate_detection.ipynb: This file contains the main code. You can run this file in a jupyter notebook or in the jupyter lab.
 ○ no._plate_detection.py: This file is just the ".py" file of the above ".ipynb" file. ○ 7.6.2020.xlsx: This is the excel file created by the code. Each day a new ".xlsx"
 file will be created.
+
 ●       Videos:
 ○       q2.mp4: This is our testing video. We used this video in our code line 15. ○       Demo.mp4: This video is our code demonstration video.
 ○       Demo2.mp4: This video is our code demonstration video. ●       About code:
